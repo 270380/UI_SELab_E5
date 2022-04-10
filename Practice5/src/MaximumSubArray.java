@@ -1,4 +1,4 @@
-///test branch
+///test for branch
 import java.util.Scanner;
 
 public class MaximumSubArray {
