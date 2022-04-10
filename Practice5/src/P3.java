@@ -1,3 +1,4 @@
+///complete class P3
 import java.util.Scanner;
 
 public class P3 {
