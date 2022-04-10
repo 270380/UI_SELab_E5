@@ -1,4 +1,4 @@
-///Edit sucSet
+///Edit subSet
 import java.util.Scanner;
 
 public class P1 {
